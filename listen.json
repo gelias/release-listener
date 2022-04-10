@@ -1,0 +1,12 @@
+{
+    "projects": [
+        {
+            "name": "K8s",
+            "type": "GITHUB",
+            "repo": "https://github.com/kubernetes/kubernetes",
+            "listen": [
+                "RELEASES",
+            ]
+        },
+    ]
+}
